@@ -1,10 +1,9 @@
 ## Spring Boot - Regex: fractionnement par caractère
----
 Dans ce projet, nous allons voir une exemple de Regex: fractionnement par caractère, sauf entre guillemets.
 
 ### Prérequis
 ---
-Pour travailler dans un projet Spring Boot, vous auriez besoin des spécifications suivantes:<br/>
+Pour travailler dans un projet Spring Boot, vous auriez besoin des spécifications suivantes :<br/>
 - Spring Boot v2.0+<br/>
 - JDK v1.8+<br/>
 - Maven 3+ ou Gradle 4+ - outil de construction<br/>
